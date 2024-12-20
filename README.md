@@ -1,2 +1,2 @@
-# html-portfolio
-This is my first html portfolio project as a beginner. (still learning)
+# html-test
+This is my first html project as a beginner. (currently takinga course and still learning)
